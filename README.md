@@ -1,4 +1,3 @@
 # OPTIMAL
-Self-supervised Models with Graph Neural Networks
-
-We will open our source code after the article is accepted.
+Dataset:https://staff.itee.uq.edu.au/marius/NIDS_datasets/
+Any question:1987562392@qq.com
